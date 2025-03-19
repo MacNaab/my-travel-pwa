@@ -1,0 +1,22 @@
+{
+    "08-04-2025": [
+      { "id": "J1-1", "title": "Atterrissage", "location": "aeroport", "time": "12:00" },
+      { "id": "J1-2", "title": "Restaurant", "location": "???", "time": "15:00" }
+    ],
+    "09-04-2025": [
+      { "id": "act-1", "title": "Visite Tour Eiffel", "location": "paris", "time": "10:00" },
+      { "id": "act-2", "title": "Musée du Louvre", "location": "paris", "time": "14:00" }
+    ],
+    "10-04-2025": [
+      { "id": "act-3", "title": "Visite de Lyon", "location": "lyon", "time": "09:00" }
+    ],
+    "20-04-2025": [
+      { "id": "J12-1", "title": "Dimanche de Pâques", "location": "estrees", "time": "09:00" }
+    ],
+    "21-04-2025": [
+      { "id": "J13-1", "title": "Lundi de Pâques", "location": "estrees", "time": "09:00" }
+    ],
+    "28-04-2025": [
+      { "id": "J20-1", "title": "Décollage", "location": "aeroport", "time": "10:00" }
+    ]
+  }

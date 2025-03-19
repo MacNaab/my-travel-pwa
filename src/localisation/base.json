@@ -1,0 +1,12 @@
+{
+    "fr": {
+        "map": "Carte",
+        "calendar": "Calendrier",
+        "footer": "Guide de Voyage France"
+    },
+    "es": {
+        "map": "Mapa",
+        "calendar": "Calendario",
+        "footer": "Guía de Viaje Francia"
+    }
+}

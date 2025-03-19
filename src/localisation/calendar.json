@@ -1,0 +1,24 @@
+{
+    "fr": {
+        "title": "Planning d'Activités",
+        "cardTitle": "Calendrier d'activités",
+        "card1": "Dimanches et Jours fériés",
+        "card2": "Premier et dernier jour",
+        "activity": "Activités du",
+        "noDate": "Sélectionnez une date",
+        "noActivity": "Aucune activité prévue pour cette date",
+        "metaTitle": "Calendrier",
+        "metaDescription": "Découvrez le calendrier interactif des activités lors de votre voyage en France."
+    },
+    "es": {
+        "title": "Programa de actividades",
+        "cardTitle": "Calendario de actividades",
+        "card1": "Domingos y feriados",
+        "card2": "Primer y último día",
+        "activity": "Actividades del",
+        "noDate": "Seleccione una fecha",
+        "noActivity": "No hay actividad prevista para esta fecha",
+        "metaTitle": "Calendario",
+        "metaDescription": "Descubre el calendario interactivo de actividades durante tu viaje en Francia."
+    }
+}

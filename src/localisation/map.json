@@ -1,0 +1,16 @@
+{
+    "fr": {
+        "title": "Découvrez la France",
+        "cardTitle": "Carte des destinations",
+        "cardHover": "Recentrer la carte",
+        "metaTitle": "Carte interactive de la France",
+        "metaDescription": "Explorez la France avec notre carte interactive. Découvrez des lieux d'intérêt et des points de repère partout en France."
+    },
+    "es": {
+        "title": "Descubra la Francia",
+        "cardTitle": "Mapa de destinos",
+        "cardHover": "Recentrar la mapa",
+        "metaTitle": "Mapa interactivo de Francia",
+        "metaDescription": "Explora Francia con nuestro mapa interactivo. Descubre lugares de interés y puntos de referencia por toda Francia."
+    }
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "hombleux",
+    "name": "Hombleux",
+    "coordinates": [
+      49.7394,
+      2.98574
+    ],
+    "image": "",
+    "fr": {
+      "description": "Résidence des parents."
+    },
+    "es": {
+      "description": "Residencia."
+    }
+  },
+  {
+    "id": "estrees",
+    "name": "Estrées",
+    "coordinates": [
+      49.966667,
+      3.283333
+    ],
+    "image": "",
+    "fr": {
+      "description": "Résidence des grand-parents."
+    },
+    "es": {
+      "description": "Residencia de los abuelos."
+    }
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "coordinates": [
+      48.8566,
+      2.3522
+    ],
+    "image": "https://www.chooseparisregion.org/sites/default/files/news/6---Tour-Eiffel_AdobeStock_644956457_1920_72dpi.jpg",
+    "fr": {
+      "description": "Paris, capitale de la France, est une grande ville européenne et un centre mondial de l'art, de la mode, de la gastronomie et de la culture. Son paysage urbain du XIXe siècle est traversé par de larges boulevards et la Seine. Outre les monuments comme la tour Eiffel et la cathédrale gothique Notre-Dame du XIIe siècle, la ville est réputée pour ses cafés et ses boutiques de luxe bordant la rue du Faubourg-Saint-Honoré."
+    },
+    "es": {
+      "description": "París, la capital de Francia, es una importante ciudad europea y un centro mundial de arte, moda, gastronomía y cultura. Su paisaje urbano del siglo XIX está surcado por amplios bulevares y el río Sena. Además de monumentos como la Torre Eiffel y la catedral gótica de Notre Dame del siglo XII, la ciudad es famosa por sus cafés y boutiques de lujo que bordean la Rue du Faubourg-Saint-Honoré."
+    }
+  },
+  {
+    "id": "amiens",
+    "name": "Amiens",
+    "coordinates": [
+      49.900002,
+      2.3
+    ],
+    "image": "https://www.weekend-hautsdefrance.com/sites/picardiev3/files/Amiens----La-place-du-Don-2.jpg",
+    "fr": {
+      "description": "Amiens est une ville du nord de la France, traversée par la Somme. Elle est connue pour sa cathédrale gothique et son beffroi médiéval situé à proximité. Des boutiques et des cafés bordent les ruelles du quartier Saint-Leu. Les canaux de la ville sont parsemés de jardins flottants, les \"hortillonnages\". Le musée de Picardie expose des œuvres d'art et des antiquités sur une période de plusieurs siècles. La maison de Jules Verne, toute proche, est un musée où l'auteur de science-fiction vécut autrefois."
+    },
+    "es": {
+      "description": "Amiens es una ciudad del norte de Francia, atravesada por el río Somme. Es conocida por su catedral gótica y su cercano campanario medieval. Tiendas y cafés bordean las estrechas calles del barrio de Saint-Leu. Los canales de la ciudad están salpicados de jardines flotantes, los \"hortillonnages\". El Museo de Picardía exhibe arte y antigüedades de varios siglos. La cercana Casa de Julio Verne es un museo donde vivió el autor de ciencia ficción."
+    }
+  },
+  {
+    "id": "saintquentin",
+    "name": "Saint-Quentin",
+    "coordinates": [
+      49.849998,
+      3.28333
+    ],
+    "image": "https://www.cartegrise.com/media/styleovilles/styleovilles/saint-quentin-hotel-de-ville.webp",
+    "fr": {
+      "description": "Saint-Quentin est une commune française située dans le département de l'Aisne, en région Hauts-de-France. Comptant la plus importante population du département, dont elle est une sous-préfecture, Saint-Quentin est la deuxième commune la plus peuplée de la région. Cette ville picarde est située sur la Somme."
+    },
+    "es": {
+      "description": "Saint-Quentin es una comuna francesa situada en el departamento de Aisne, en la región de Hauts-de-France. Con la mayor población del departamento, del cual es una subprefectura, Saint-Quentin es la segunda comuna más poblada de la región. Esta ciudad de Picardía se encuentra a orillas del río Somme."
+    }
+  },
+  {
+    "id": "chantilly",
+    "name": "Chantilly",
+    "coordinates": [
+      49.200001,
+      2.46667
+    ],
+    "image": "https://www.ville-chantilly.fr/wp-content/uploads/2024/04/AdobeStock_480688745-scaled.jpg",
+    "fr": {
+      "description": "Chantilly est une commune française située dans le département de l'Oise, en région Hauts-de-France. Située au cœur de la forêt de Chantilly, dans la vallée de la Nonette. Chantilly est connue pour son château, qui accueille en son sein les collections du musée Condé, et pour sa crème fouettée. Elle est également reconnue au niveau international pour ses activités hippiques : outre son hippodrome, sur lequel se déroulent notamment deux courses hippiques, le prix du Jockey Club et le prix de Diane, la ville et ses environs abritent le plus grand centre d'entraînement de chevaux de course de France."
+    },
+    "es": {
+      "description": "Chantilly es una comuna francesa situada en el departamento de Oise, en la región de Hauts-de-France. Se encuentra en pleno corazón del bosque de Chantilly, en el valle de Nonette. Chantilly es conocida por su castillo, que alberga las colecciones del Museo Condé, y por su nata montada. También es reconocida internacionalmente por sus actividades ecuestres: además de su hipódromo, que alberga dos carreras de caballos, el Prix du Jockey Club y el Prix de Diane, la ciudad y sus alrededores albergan el mayor centro de entrenamiento de caballos de carreras de Francia."
+    }
+  },
+  {
+    "id": "coucyleChateau",
+    "name": "Coucy-le-Château",
+    "coordinates": [
+      49.52180,
+      3.3186
+    ],
+    "image": "https://www.chateau-coucy.fr/var/cmn_inter/storage/images/_aliases/article_vignette_webp/4/3/7/1/120591734-3-fre-FR/a6d074cc2dd4-Coucy-C-Christian-Gluckman-Centre-des-monuments-nationaux.webp.webp",
+    "fr": {
+      "description": "Coucy-le-Château est une commune située dans le département de l'Aisne, dans la région Hauts-de-France. Elle est connue pour son château médiéval, l'un des plus grands d'Europe, qui domine la vallée de l'Oise. Le château de Coucy a été construit au XIIIe siècle et a été la résidence de plusieurs seigneurs puissants. Il a été partiellement détruit pendant la Première Guerre mondiale, mais ses ruines impressionnantes sont encore visibles aujourd'hui. Le château est un exemple remarquable de l'architecture militaire médiévale et offre une vue imprenable sur la vallée environnant."
+    },
+    "es": {
+      "description": "Coucy-le-Château es un municipio del departamento de Aisne, en la región de Hauts-de-France. Es conocido por su castillo medieval, uno de los más grandes de Europa, con vistas al valle del Oise. El castillo de Coucy fue construido en el siglo XIII y fue residencia de varios señores poderosos. Fue parcialmente destruido durante la Primera Guerra Mundial, pero sus impresionantes ruinas aún son visibles. El castillo es un ejemplo notable de arquitectura militar medieval y ofrece impresionantes vistas del valle circundante."
+    }
+  },
+  {
+    "id": "craonne",
+    "name": "Craonne",
+    "coordinates": [
+      49.433331,
+      3.78333
+    ],
+    "image": "https://aisne.com/sites/default/files/2019-04/craonne-web.jpg",
+    "fr": {
+      "description": "Craonne est connue pour son rôle dans les batailles de la Première Guerre mondiale. Le village a été presque entièrement détruit pendant la guerre et a été reconstruit par la suite. Le Chemin des Dames, une crête stratégique, a été le théâtre de combats intenses et de nombreuses pertes humaines. Les vestiges de la guerre sont encore visibles aujourd'hui, avec des tranchées et des tunnels utilisés par les soldats pour se protéger des bombardements."
+    },
+    "es": {
+      "description": "Craonne es conocida por su papel en las batallas de la Primera Guerra Mundial. El pueblo fue destruido casi por completo durante la guerra y posteriormente reconstruido. El Chemin des Dames, una cresta estratégica, fue escenario de intensos combates y numerosas bajas. Los restos de la guerra aún son visibles hoy en día, con trincheras y túneles utilizados por los soldados para protegerse de los bombardeos."
+    }
+  },
+  {
+    "id": "senlis",
+    "name": "Senlis",
+    "coordinates": [
+      49.200001,
+      2.58333
+    ],
+    "image": "https://api.cloudly.space/resize/clip/1200/760/75/aHR0cHM6Ly9oYXV0c2RlZnJhbmNlLm1lZGlhLnRvdXJpbnNvZnQuZXUvdXBsb2FkL1guUkVOT1VYLU9ULVNlbmxpcy1BYmJheWUtUm95YXVtb250LTIwMTgtMjQ4LmpwZw==/image.jpg",
+    "fr": {
+      "description": "Senlis est une commune française, sous-préfecture du département de l'Oise, en région Hauts-de-France. Elle se situe sur la Nonette, entre les forêts de Chantilly et d'Ermenonville au sud, et d'Halatte au nord, à quarante kilomètres au nord de Paris. De fondation antique, séjour royal durant le Moyen Âge, la cité conserve de sa longue histoire un riche patrimoine et possède plusieurs musées. La vieille ville est constituée d'un ensemble de maisons et ruelles anciennes ceintes de remparts gallo-romains et médiévaux, autour d'une cathédrale gothique. L'ensemble a été préservé par la création en 1962 d'un secteur sauvegardé de quarante-deux hectares. Depuis, la municipalité et les habitants mettent en valeur le patrimoine par la restauration des monuments et de l'habitat ancien et l'organisation de manifestations culturelles. Senlis fait partie du parc naturel régional Oise-Pays de France."
+    },
+    "es": {
+      "description": "Senlis es una comuna francesa, subprefectura del departamento de Oise, en la región de Hauts-de-France. Se encuentra a orillas del río Nonette, entre los bosques de Chantilly y Ermenonville al sur, y Halatte al norte, a cuarenta kilómetros al norte de París. Fundada en la antigüedad y residencia real durante la Edad Media, la ciudad conserva un rico patrimonio de su larga historia y cuenta con varios museos. El casco antiguo está formado por un conjunto de casas y callejones antiguos rodeados de murallas galorromanas y medievales, en torno a una catedral gótica. El conjunto se conservó gracias a la creación en 1962 de una zona protegida de cuarenta y dos hectáreas. Desde entonces, el municipio y sus residentes han promovido el patrimonio restaurando monumentos y viviendas antiguas y organizando eventos culturales. Senlis forma parte del parque natural regional de Oise-Pays de France."
+    }
+  },
+  {
+    "id": "compiegne",
+    "name": "Compiègne",
+    "coordinates": [
+      49.416672,
+      2.83333
+    ],
+    "image": "https://i-de.unimedias.fr/2023/12/07/04villecreditxavierrenoux-oisetourisme-6571e28f7e6c4.jpg",
+    "fr": {
+      "description": "Compiègne est une commune française située dans le département de l'Oise, dont elle est l'une des sous-préfectures, en région culturelle et historique de Picardie, administrative Hauts-de-France. La commune est située au nord-est de Paris. Résidence royale depuis les Mérovingiens, elle est souvent surnommée « la Cité Impériale » du fait de son passé étroitement lié au Second Empire."
+    },
+    "es": {
+      "description": "Compiègne es una comuna francesa situada en el departamento de Oise, del cual es una de sus subprefecturas, en la región cultural e histórica de Picardía, administrativamente denominada Hauts-de-France. La comuna se encuentra al noreste de París. Residencia real desde la época merovingia, a menudo se la conoce como «la Ciudad Imperial» debido a su pasado estrechamente vinculado al Segundo Imperio."
+    }
+  },
+  {
+    "id": "beauvais",
+    "name": "Beauvais",
+    "coordinates": [
+      49.433331,
+      2.08333
+    ],
+    "image": "https://france3-regions.francetvinfo.fr/image/OLbuYY-4SNJkTAUnjIcdf1EY5q8/1200x900/regions/2025/03/12/tm3-messe-et-processions-pour-c-l-brer-les-800-ans-de-la-cath-drale-de-beauvais-copie-00-00-00-00-67d16394ec636505621146.jpg",
+    "fr": {
+      "description": "Beauvais est une commune française, ville-préfecture du département de l'Oise au sein de la région culturelle et historique de Picardie, et administrative Hauts-de-France. Elle se situe sur le plateau picard, au nord du Bassin parisien et sur les rives du Thérain, affluent de l'Oise. Ses habitants sont appelés les Beauvaisiens. Elle a donné son nom au pays traditionnel du Beauvaisis, qui est historiquement un pays de Picardie dont elle est la ville principale. Sous l'Ancien Régime, l'évêque-comte de Beauvais figurait parmi les Douze pairs primitifs de France. La fusion de communes menée à la fin de la Seconde Guerre mondiale, qui a permis une reconstruction et une urbanisation des plateaux, a conforté Beauvais dans sa dynamique démographique positive. Beauvais est célèbre pour sa cathédrale d'architecture gothique, encore inachevée à ce jour puisqu'elle ne possède pas de nef, mais au chœur gothique (ou art français) le plus haut du monde, typique de l'apogée de cet art en France. La plupart des œuvres de la cathédrale datent du XVIIe siècle."
+    },
+    "es": {
+      "description": "Beauvais es una comuna francesa, ciudad-prefectura del departamento de Oise, en la región cultural e histórica de Picardía, y administrativamente Hauts-de-France. Se ubica en la meseta de Picardía, al norte de la cuenca de París y a orillas del Thérain, afluente del Oise. Sus habitantes se llaman Beauvaisiens. Dio su nombre al tradicional pueblo de Beauvaisis, históricamente un pueblo de Picardía, del que es la principal ciudad. Bajo el Antiguo Régimen, el obispo-conde de Beauvais figuraba entre los Doce Pares Primitivos de Francia. La fusión de comunas llevada a cabo al final de la Segunda Guerra Mundial, que permitió la reconstrucción y urbanización de las mesetas, consolidó la dinámica demográfica de Beauvais. Beauvais es famosa por su catedral gótica, aún inacabada, ya que no tiene nave, pero sí el coro gótico (o de arte francés) más alto del mundo, representativo del apogeo de este arte en Francia. La mayor parte de las obras de la catedral datan del siglo XVII."
+    }
+  },
+  {
+    "id": "gerberoy",
+    "name": "Gerberoy",
+    "coordinates": [
+      49.533329,
+      1.85
+    ],
+    "image": "https://www.gerberoy.net/wafx_res/Images/0-768-x2-DSCN1290-2048-pixels.jpg",
+    "fr": {
+      "description": "Gerberoy est une commune française située dans le département de l'Oise en région Hauts-de-France. Elle est membre de l'association Les Plus Beaux Villages de France."
+    },
+    "es": {
+      "description": "Gerberoy es un municipio francés situado en el departamento de Oise, en la región de Hauts-de-France. Es miembro de la asociación Les Plus Beaux Villages de France."
+    }
+  },
+  {
+    "id": "pierrefonds",
+    "name": "Pierrefonds",
+    "coordinates": [
+      49.349998,
+      2.98333
+    ],
+    "image": "https://www.mairie-pierrefonds.fr/wp-content/uploads/2024/03/header.jpg",
+    "fr": {
+      "description": "Pierrefonds est une commune française située dans le département de l'Oise dans la région Hauts-de-France. Située en lisière est de la forêt de Compiègne, elle est principalement connue pour son château de Pierrefonds, restauré par Viollet-le-Duc."
+    },
+    "es": {
+      "description": "Pierrefonds es una comuna francesa situada en el departamento de Oise, en la región de Hauts-de-France. Situada en el límite oriental del bosque de Compiègne, es conocida principalmente por su Castillo de Pierrefonds, restaurado por Viollet-le-Duc."
+    }
+  },
+  {
+    "id": "peronne",
+    "name": "Péronne",
+    "coordinates": [
+      49.933331,
+      2.93333
+    ],
+    "image": "https://www.ville-peronne.fr/sites/default/files/styles/media_crop/public/chateau-peronne.jpg.webp",
+    "fr": {
+      "description": "Péronne est une commune française du département de la Somme, en région Hauts-de-France. Incendiée, pillée lors des incursions des Vikings, gravement endommagée lors du siège des Espagnols, dévastée par les Allemands en 1870, totalement détruite en 1917 durant la Première Guerre mondiale, bombardée et incendiée en mai 1940 par l'aviation allemande durant la Seconde Guerre mondiale, Péronne porte en son blason deux Croix de guerre."
+    },
+    "es": {
+      "description": "Péronne es una comuna francesa del departamento de Somme, en la región de Hauts-de-France. Quemada y saqueada durante las incursiones vikingas, gravemente dañada durante el asedio español, devastada por los alemanes en 1870, completamente destruida en 1917 durante la Primera Guerra Mundial, bombardeada e incendiada en mayo de 1940 por la fuerza aérea alemana durante la Segunda Guerra Mundial, Péronne luce dos Cruces de Guerra en su escudo de armas."
+    }
+  },
+  {
+    "id": "verdun",
+    "name": "Verdun",
+    "coordinates": [
+      49.16667,
+      5.38333
+    ],
+    "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2016/01/e8214d4812c2a88caba4037d65a6a84a-akg2121571_low_res-jpg-data.jpg",
+    "fr": {
+      "description": "Verdun est une petite ville du nord-est de la France, sur les berges de la Meuse. Elle est connue comme le site de la bataille de Verdun, qui s'est déroulée pendant la 1ère Guerre mondiale. Les champs de bataille de Verdun sont marqués par des musées et des mémoriaux, comme l'ossuaire de Douaumont, qui abrite les restes de plus de 100 000 soldats. Au nord-ouest de la ville se trouve le cimetière américain de Meuse-Argonne. Dans la ville, l'immense porte Chaussée faisait autrefois partie de l'enceinte médiévale."
+    },
+    "es": {
+      "description": "Verdún es una pequeña ciudad del noreste de Francia, a orillas del río Mosa. Es conocida por ser el escenario de la Batalla de Verdún, que tuvo lugar durante la Primera Guerra Mundial. Los campos de batalla de Verdún están marcados por museos y monumentos conmemorativos, como el Osario de Douaumont, que alberga los restos de más de 100.000 soldados. Al noroeste de la ciudad se encuentra el Cementerio Americano de Mosa-Argonne. Dentro de la ciudad, la inmensa Puerta de la Chaussée formó parte de las murallas medievales de la ciudad."
+    }
+  },
+  {
+    "id": "fortmahonplage",
+    "name": "Fort-Mahon-Plage",
+    "coordinates": [
+      50.341942,
+      1.56972
+    ],
+    "image": "https://www.fort-mahon-plage.com/wp-content/uploads/2023/03/vue-fort-mahon-plage.jpg",
+    "fr": {
+      "description": "Fort-Mahon-Plage est une commune française située dans le département de la Somme, en région Hauts-de-France. Commune située sur le littoral de la Manche, dotée d'une plage de sable et de massifs dunaires, Fort-Mahon-Plage attire en permanence de nombreux touristes, en particulier l'été et lors des grands week-ends. Grâce à des investissements et au fait qu'elle réponde entre autres à de nombreux critères de qualité environnementale, la commune est officiellement classée « station balnéaire » depuis 2007."
+    },
+    "es": {
+      "description": "Fort-Mahon-Plage es un municipio francés situado en el departamento de Somme, en la región de Hauts-de-France. Situado en la costa del Canal de la Mancha, con una playa de arena y macizos dunares, Fort-Mahon-Plage atrae constantemente a numerosos turistas, especialmente en verano y los fines de semana largos. Gracias a las inversiones realizadas y al cumplimiento, entre otros, de numerosos criterios de calidad ambiental, el municipio está clasificado oficialmente como « balneario » desde 2007."
+    }
+  },
+  {
+    "id": "saintvalerysursomme",
+    "name": "Saint-Valery-sur-Somme",
+    "coordinates": [
+      50.183331,
+      1.63333
+    ],
+    "image": "https://www.tourisme-baiedesomme.fr/wp-content/uploads/2021/10/saint_valery_olivier-leclercq-8.jpg",
+    "fr": {
+      "description": "Saint-Valery-sur-Somme est une commune française située dans le département de la Somme et dans la région des Hauts-de-France. Elle fait partie du parc naturel régional Baie de Somme - Picardie maritime depuis 2020. La commune fait aussi partie des villages labellisés Pays d'art et d'histoire qui œuvrent à mettre en avant leur patrimoine."
+    },
+    "es": {
+      "description": "Saint-Valery-sur-Somme es un municipio francés situado en el departamento de Somme y en la región de Hauts-de-France. Forma parte del Parque Natural Regional de la Bahía de Somme - Picardía Marítima desde 2020. El municipio también es uno de los pueblos declarados País de Arte e Historia (País de Arte e Historia), que trabaja para promover su patrimonio."
+    }
+  },
+  {
+    "id": "lecrotoy",
+    "name": "Le Crotoy",
+    "coordinates": [
+      50.216671,
+      1.61667
+    ],
+    "image": "https://www.voyagissimo.com/wp-content/uploads/2021/12/le-crotoy-e1660890099929.jpeg",
+    "fr": {
+      "description": "Le Crotoy est une commune française portuaire de la baie de Somme située dans le département de la Somme, dans les Hauts-de-France. Depuis juillet 2020, la commune fait partie du parc naturel régional Baie de Somme - Picardie maritime. Ses habitants sont appelés les Crotellois. La commune fait partie des villes et villages labellisés Pays d'art et d'histoire qui œuvrent à mettre en avant leur patrimoine."
+    },
+    "es": {
+      "description": "Le Crotoy es un municipio portuario francés situado en la bahía del Somme, en el departamento del Somme, en Alta Francia. Desde julio de 2020, forma parte del Parque Natural Regional Marítimo de la Bahía del Somme - Picardía. Sus habitantes se llaman crotellois. El municipio es uno de los pueblos y ciudades declarados País de Arte e Historia (País de Arte e Historia) que promueve su patrimonio."
+    }
+  },
+  {
+    "id": "merslesbains",
+    "name": "Mers-les-Bains",
+    "coordinates": [
+      50.066669,
+      1.38333
+    ],
+    "image": "https://b3156816.smushcdn.com/3156816/wp-content/uploads/2023/01/20230123_99999_672-kopieren.jpg",
+    "fr": {
+      "description": "Mers-les-Bains est une commune française située dans le département de la Somme, en région Hauts-de-France. Le s se prononce à la fin de Mers. Les locaux abrègent en prononçant simplement « Mers ». Avec Eu et Le Tréport, elle est l'une des trois principales villes de l'unité urbaine d'Eu qui fait entièrement partie de l'intercommunalité dénommée communauté de communes des Villes Sœurs. Depuis le 29 juillet 2020, la commune fait partie du parc naturel régional Baie de Somme - Picardie maritime. Elle est aussi l'une des portes d'entrée du «Grand site de France Baie de Somme». En 2024, Mers-les-Bains est arrivé 2e dans l'élection du Village préféré des français, derrière Collioure."
+    },
+    "es": {
+      "description": "Mers-les-Bains es una comuna francesa situada en el departamento de Somme, en la región de Hauts-de-France. La s se pronuncia al final de Mers. Los lugareños la abrevian simplemente pronunciando « Mers ». Junto con Eu y Le Tréport, es una de las tres principales localidades de la unidad urbana de Eu, que forma parte íntegramente de la Communauté de Communes des Villes Sœurs (Comunidad de Municipios Hermanas). Desde el 29 de julio de 2020, la comuna forma parte del Parque Natural Regional de la Bahía de Somme - Picardía Marítima. También es una de las puertas de entrada al Gran Sitio de Francia de la Bahía de Somme. En 2024, Mers-les-Bains quedó en segundo lugar en la elección del pueblo favorito de los franceses, por detrás de Collioure."
+    }
+  },
+  {
+    "id": "soissons",
+    "name": "Soissons",
+    "coordinates": [
+      49.366669,
+      3.33333
+    ],
+    "image": "https://en.geneanet.org/public/img/gallery/pictures/cartes_postales/6d/7737843/large.jpg",
+    "fr": {
+      "description": "Soissons est une commune française située dans le département de l'Aisne, en région culturelle et historique de Picardie, administrative Hauts-de-France. Elle est la première capitale du royaume des Francs. Deuxième plus grande ville du département et sous-préfecture, elle est connue pour l'épisode du vase de Soissons à la suite de la prise de la ville par Clovis en 486, d'où elle tire son surnom de « la cité du Vase ». Clovis y établit aussi sa capitale jusqu'en 508 après Tournai puis la ville est la capitale de plusieurs rois Mérovingiens. Elle est située au cœur du Bassin Parisien sur le plateau picard. Soissons possède un patrimoine historique et architectural varié, illustré par des édifices comme l’abbaye Saint-Jean-des-Vignes, la cathédrale Saint-Gervais-et-Saint-Protais et l’abbaye Saint-Léger, témoins de son passé médiéval et religieux."
+    },
+    "es": {
+      "description": "Soissons es una comuna francesa situada en el departamento de Aisne, en la región cultural e histórica de Picardía, administrativamente denominada Alta Francia. Fue la primera capital del Reino de los Francos. Es la segunda ciudad más grande del departamento y subprefectura, y es conocida por el episodio del Vaso de Soissons tras la toma de la ciudad por Clodoveo en 486, de donde toma su apodo de «la ciudad del Vaso». Clodoveo también estableció allí su capital hasta 508, después de Tournai; posteriormente, la ciudad fue capital de varios reyes merovingios. Se encuentra en el corazón de la Cuenca de París, en la meseta de Picardía. Soissons posee un variado patrimonio histórico y arquitectónico, ilustrado por edificios como la Abadía de Saint-Jean-des-Vignes, la Catedral de Saint-Gervais-et-Saint-Protais y la Abadía de Saint-Léger, testigos de su pasado medieval y religioso."
+    }
+  },
+  {
+    "id": "montsaintmichel",
+    "name": "Mont-Saint-Michel",
+    "coordinates": [
+      48.636391,
+      -1.510278
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/420px-Mont-Saint-Michel_vu_du_ciel.jpg",
+    "fr": {
+      "description": "Le Mont-Saint-Michel est une commune française située dans la Manche en Normandie. Elle tire son nom de l'îlot rocheux consacré à saint Michel où s’élève aujourd’hui l’abbaye du Mont-Saint-Michel. L’architecture du Mont-Saint-Michel et sa baie en font le site touristique le plus fréquenté de Normandie et l'un des dix plus fréquentés en France. Une statue de saint Michel placée au sommet de l’église abbatiale culmine à 157,10 mètres au-dessus du rivage. Par ailleurs, le mont bénéficie d'une seconde reconnaissance mondiale en tant qu'étape des Chemins de Compostelle en France pour « les pèlerins du Nord de l'Europe (qui) passaient par le Mont lorsqu'ils se rendaient en Galice »."
+    },
+    "es": {
+      "description": "El Monte Saint-Michel es una comuna francesa situada en el Canal de la Mancha, en Normandía. Recibe su nombre del islote rocoso dedicado a San Miguel, donde hoy se alza la Abadía del Monte Saint-Michel. La arquitectura del Monte Saint-Michel y su bahía lo convierten en el sitio turístico más visitado de Normandía y uno de los diez más visitados de Francia. Una estatua de San Miguel, situada en lo alto de la iglesia abacial, se alza 157,10 metros sobre la orilla. Además, el monte goza de un segundo reconocimiento mundial como parada del Camino de Santiago en Francia para los peregrinos del norte de Europa que pasaban por el monte en su camino hacia Galicia."
+    }
+  },
+  {
+    "id": "liege",
+    "name": "Liège",
+    "coordinates": [
+      50.63373,
+      5.56749
+    ],
+    "image": "https://content.r9cdn.net/rimg/dimg/ba/af/0299dee7-city-22370-166648c0a25.jpg",
+    "fr": {
+      "description": "Liège, ville belge bordant la Meuse située en Wallonie, la région francophone, a longtemps constitué un centre commercial et culturel. Sa vieille ville recèle de nombreux sites d'intérêt datant de l'époque médiévale, comme la collégiale romane de Saint-Barthélemy."
+    },
+    "es": {
+      "description": "Lieja, ciudad belga a orillas del río Mosa en Valonia, la región francófona, ha sido durante mucho tiempo un centro comercial y cultural. Su casco antiguo alberga numerosos lugares de interés que datan de la época medieval, como la colegiata románica de San Bartolomé."
+    }
+  },
+  {
+    "id": "aeroport",
+    "name": "Aéroport de Paris-Charles de Gaulle",
+    "coordinates": [
+      49.009724,
+      2.547778
+    ],
+    "image": "",
+    "fr": {
+      "description": "Aéroport."
+    },
+    "es": {
+      "description": "Aeropuerto."
+    }
+  },
+  {
+    "id": "naours",
+    "name": "Cité souterraine de Naours.",
+    "coordinates": [
+      50.0361,
+      2.2775
+    ],
+    "image": "https://subterranologie.com/wp-content/uploads/2024/04/2024-04-01-01_34_39-XnView-Classic-EOSR2787-Panorama.jpg-1024x591.png",
+    "fr": {
+      "description": "La cité souterraine de Naours, plus connue sous le nom de Grottes de Naours, est une ancienne carrière de craie ayant servi de refuge aux habitants du village durant les guerres et invasions qu'a connues la Picardie. Avril Mai Juin Septembre : De 10h à 17h30 (18h30 les week-ends) - Fermé le lundi"
+    },
+    "es": {
+      "description": "La ciudad subterránea de Naours, más conocida como las Cuevas de Naours, es una antigua cantera de tiza que sirvió de refugio a los habitantes del pueblo durante las guerras e invasiones que sufrió Picardía. Abril, mayo, junio y septiembre: De 10:00 a 17:30 (18:30 los fines de semana) - Lunes cerrado."
+    }
+  }
+]
