@@ -358,5 +358,33 @@
     "es": {
       "description": "La ciudad subterránea de Naours, más conocida como las Cuevas de Naours, es una antigua cantera de tiza que sirvió de refugio a los habitantes del pueblo durante las guerras e invasiones que sufrió Picardía. Abril, mayo, junio y septiembre: De 10:00 a 17:30 (18:30 los fines de semana) - Lunes cerrado."
     }
+  },
+  {
+    "id": "laon",
+    "name": "Laon",
+    "coordinates": [
+      49.566669, 3.61667
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cath%C3%A9drale_Notre-Dame_de_Laon_at_night-5675.jpg/1280px-Cath%C3%A9drale_Notre-Dame_de_Laon_at_night-5675.jpg",
+    "fr": {
+      "description": "La commune de Laon donne son nom au pays traditionnel du Laonnois, qui est une région historique de Picardie dont elle est la ville principale. Sous l'Ancien Régime, Laon fut le centre d'un évéché dont l'évêque comte figurait parmi les Douze pairs primitifs de France. Ville fortifiée sur un plateau, bénéficiant du plus vaste secteur sauvegardé de France, de 370 ha, Laon possède de nombreux monuments médiévaux, des hôtels particuliers et des maisons des XVIe, XVIIe et XVIIIe siècles en grand nombre, notamment dans les rues Sérurier, Saint-Jean, Saint-Cyr ou Vinchon, véritables musées urbains. Son sous-sol est sillonné de souterrains, carrières et puits dont la préservation est l'un des enjeux patrimoniaux actuels. Située à son sommet, sa cathédrale lui a valu le surnom de « Montagne couronnée »."
+    },
+    "es": {
+      "description": "El municipio de Laon da nombre al país tradicional de Laonnois, que es una región histórica de Picardía de la que es la ciudad principal. Bajo el Antiguo Régimen, Laon fue el centro de un obispado cuyo obispo-conde se encontraba entre los Doce Pares Primitivos de Francia. Ciudad fortificada en una meseta, que se beneficia del mayor espacio protegido de Francia, de 370 ha, Laon cuenta con numerosos monumentos medievales, mansiones y casas de los siglos XVI, XVII y XVIII, en particular en las calles Sérurier, Saint-Jean, Saint-Cyr o Vinchon, verdaderos museos urbanos. Su sótano está surcado de pasajes subterráneos, canteras y pozos, cuya preservación es una de las cuestiones patrimoniales actuales. Situada en su cima, su catedral le valió el sobrenombre de “Montaña Coronada”."
+    }
+  },
+  {
+    "id": "villerscotterets",
+    "name": "Villers-Cotterêts ",
+    "coordinates": [
+      49.254864, 3.092152
+    ],
+    "image": "https://www.cite-langue-francaise.fr/var/cmn_inter/storage/images/_aliases/homepage_banner_webp/6/0/3/9/121309306-1-fre-FR/2aeb4321bfbc-HD-Chateau-de-Villers-Cotterets-C-Pierre-Olivier-Deschamps-Agence-Vu-Centre-des-monuments-nationaux.webp.webp",
+    "fr": {
+      "description": "Le château de Villers-Cotterêts est construit au XVIe siècle par François Ier. Il est classé au titre des monuments historiques en 1997 et est propriété de l'État."
+    },
+    "es": {
+      "description": "El castillo de Villers-Cotterêts fue construido en el siglo XVI por Francisco I. Fue clasificado como monumento histórico en 1997 y es propiedad del Estado."
+    }
   }
 ]

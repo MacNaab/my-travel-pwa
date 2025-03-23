@@ -7,6 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import activities from "@/data/activities.json";
 import locations from "@/data/locations.json";
 import Localisation from "@/localisation/calendar.json";
+import { Car, Dot, TrainFront } from "lucide-react";
 
 // Types pour les données
 type Activity = {
@@ -160,25 +161,52 @@ export default function ActivityCalendar({ lang }: { lang: "fr" | "es" }) {
           <CardContent>
             {selectedActivities.length > 0 ? (
               <div className="space-y-4">
-                {selectedActivities.map((activity: Activity) => (
-                  <Card
-                    key={activity.id}
-                    className="p-4 hover:shadow-md transition-shadow"
-                  >
-                    <div className="flex justify-between items-start">
-                      <div>
-                        <h3 className="font-bold text-lg">{activity.title}</h3>
-                        <p className="text-sm text-gray-600">
-                          {locationMap[activity.location]?.name ||
-                            "Lieu inconnu"}
-                        </p>
+                {selectedActivities.map((activity: Activity, index: number) => {
+                  if (activity.id === "transport") {
+                    const Icon =
+                      activity.title === "Train" ? <TrainFront /> : <Car />;
+                    return (
+                      <div
+                        key={activity.id + "_" + index}
+                        className="flex justify-around items-center m-4"
+                      >
+                        <div className="flex">
+                          <div className="flex items-end">
+                            <Dot className="animate-bounce" />
+                            <Dot className="animate-bounce" />
+                          </div>
+                          <div className="p-2">{Icon}</div>
+                          <div className="flex items-end">
+                            <Dot className="animate-bounce" />
+                            <Dot className="animate-bounce" />
+                          </div>
+                        </div>
+                        <div>{activity.time}</div>
                       </div>
-                      <div className="bg-blue-100 text-blue-800 text-sm font-medium px-2.5 py-0.5 rounded-full">
-                        {activity.time}
+                    );
+                  }
+                  return (
+                    <Card
+                      key={activity.id}
+                      className="p-4 hover:shadow-md transition-shadow"
+                    >
+                      <div className="flex justify-between items-start">
+                        <div>
+                          <h3 className="font-bold text-lg">
+                            {activity.title}
+                          </h3>
+                          <p className="text-sm text-gray-600">
+                            {locationMap[activity.location]?.name ||
+                              "Lieu inconnu"}
+                          </p>
+                        </div>
+                        <div className="bg-blue-100 text-blue-800 text-sm font-medium px-2.5 py-0.5 rounded-full">
+                          {activity.time}
+                        </div>
                       </div>
-                    </div>
-                  </Card>
-                ))}
+                    </Card>
+                  );
+                })}
               </div>
             ) : (
               <p className="text-gray-500 text-center py-8">

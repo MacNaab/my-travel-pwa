@@ -1,0 +1,149 @@
+{
+    "home": {
+        "name": "BOURGES",
+        "coordinates": [
+            47.083328,
+            2.4
+        ]
+    },
+    "groups": [
+        [
+            {
+                "name": "LA CHAPELLE ST URSIN",
+                "coordinates": [
+                    47.066669,
+                    2.31667
+                ]
+            },
+            {
+                "name": "SANCERRE",
+                "coordinates": [
+                    47.333328,
+                    2.83333
+                ]
+            },
+            {
+                "name": "VIERZON",
+                "coordinates": [
+                    47.216671,
+                    2.08333
+                ]
+            }
+        ],
+        [
+            {
+                "name": "BOURGES",
+                "coordinates": [
+                    47.07,
+                    2.4
+                ]
+            },
+            {
+                "name": "AVORD",
+                "coordinates": [
+                    47.033329,
+                    2.65
+                ]
+            },
+            {
+                "name": "BOURGES",
+                "coordinates": [
+                    47.09,
+                    2.4
+                ]
+            }
+        ],
+        [
+            {
+                "name": "LEVET",
+                "coordinates": [
+                    46.933331,
+                    2.41667
+                ]
+            },
+            {
+                "name": "SANCERGUES",
+                "coordinates": [
+                    47.15528,
+                    2.91667
+                ]
+            },
+            {
+                "name": "LEVET",
+                "coordinates": [
+                    46.93,
+                    2.41
+                ]
+            }
+        ],
+        [
+            {
+                "name": "ST GERMAIN DU PUY",
+                "coordinates": [
+                    47.099998,
+                    2.48333
+                ]
+            },
+            {
+                "name": "SAINT AMAND MONTROND",
+                "coordinates": [
+                    46.72284,
+                    2.50494
+                ]
+            },
+            {
+                "name": "BAUGY",
+                "coordinates": [
+                    47.076499694,
+                    2.726497094
+                ]
+            }
+        ],
+        [
+            {
+                "name": "MEHUN SUR YEVRE ",
+                "coordinates": [
+                    47.150002,
+                    2.21667
+                ]
+            },
+            {
+                "name": "LA CHAPELLE ST URSIN",
+                "coordinates": [
+                    47.06,
+                    2.31
+                ]
+            },
+            {
+                "name": "AUBIGNY SUR NERE",
+                "coordinates": [
+                    47.489166,
+                    2.439722
+                ]
+            }
+        ],
+        [
+            {
+                "name": "MEHUN SUR YEVRE ",
+                "coordinates": [
+                    47.15,
+                    2.22
+                ]
+            },
+            {
+                "name": "ST FLORENT SUR CHER",
+                "coordinates": [
+                    46.98333,
+                    2.25
+                ]
+            },
+            {
+                "name": "ST MARTIN D'AUXIGNY",
+                "coordinates": [
+                    47.20371,
+                    2.41553
+                ]
+            }
+        ]
+    ]
+}
