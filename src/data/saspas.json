@@ -16,6 +16,123 @@
                 ]
             },
             {
+                "name": "ST MARTIN D'AUXIGNY",
+                "coordinates": [
+                    47.20371,
+                    2.41553
+                ]
+            },
+            {
+                "name": "CHATEAUMEILLANT",
+                "coordinates": [
+                    46.566669,
+                    2.2
+                ]
+            }
+        ],
+        [
+            {
+                "name": "BOURGES",
+                "coordinates": [
+                    47.07,
+                    2.4
+                ]
+            },
+            {
+                "name": "LEVET",
+                "coordinates": [
+                    46.933331,
+                    2.41667
+                ]
+            },
+            {
+                "name": "SAINT AMAND MONTROND",
+                "coordinates": [
+                    46.72284,
+                    2.50494
+                ]
+            }
+        ],
+        [
+            {
+                "name": "BOURGES",
+                "coordinates": [
+                    47.083,
+            2.37
+                ]
+            },
+            {
+                "name": "MEHUN SUR YEVRE ",
+                "coordinates": [
+                    47.150002,
+                    2.21667
+                ]
+            },
+            {
+                "name": "SANCERGUES",
+                "coordinates": [
+                    47.15528,
+                    2.91667
+                ]
+            }
+        ],
+        [
+            {
+                "name": "BOURGES",
+                "coordinates": [
+                    47.1,
+                    2.4
+                ]
+            },
+            {
+                "name": "MEHUN SUR YEVRE ",
+                "coordinates": [
+                    47.155,
+                    2.217
+                ]
+            },
+            {
+                "name": "SANCERRE",
+                "coordinates": [
+                    47.333328,
+                    2.83333
+                ]
+            }
+        ],
+        [
+            {
+                "name": "BOURGES",
+                "coordinates": [
+                    47.08,
+                    2.4
+                ]
+            },
+            {
+                "name": "BAUGY",
+                "coordinates": [
+                    47.076499694,
+                    2.726497094
+                ]
+            },
+            {
+                "name": "ST FLORENT SUR CHER",
+                "coordinates": [
+                    46.98333,
+                    2.25
+                ]
+            }
+        ]
+    ],
+    "Oldgroups": [
+        [
+            {
+                "name": "LA CHAPELLE ST URSIN",
+                "coordinates": [
+                    47.066669,
+                    2.31667
+                ]
+            },
+            {
                 "name": "SANCERRE",
                 "coordinates": [
                     47.333328,

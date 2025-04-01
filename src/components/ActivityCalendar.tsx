@@ -43,8 +43,8 @@ const isHoliday = (date: Date): boolean => {
 
 // Fonction pour vérifier si c'est le premier ou dernier jour de notre plage
 const isFirstOrLastDay = (date: Date): boolean => {
-  // 8 avril 2025
-  const firstDay = new Date(2025, 3, 8);
+  // 9 avril 2025
+  const firstDay = new Date(2025, 3, 9);
   // 28 avril 2025
   const lastDay = new Date(2025, 3, 28);
 
@@ -59,8 +59,8 @@ const isFirstOrLastDay = (date: Date): boolean => {
 };
 
 export default function ActivityCalendar({ lang }: { lang: "fr" | "es" }) {
-  // Créer une plage de dates du 8 au 28 avril 2025
-  const fromDate = new Date(2025, 3, 8); // Avril est le mois 3 (0-indexé)
+  // Créer une plage de dates du 9 au 28 avril 2025
+  const fromDate = new Date(2025, 3, 9); // Avril est le mois 3 (0-indexé)
   const toDate = new Date(2025, 3, 28);
 
   const [selectedDate, setSelectedDate] = useState<Date | undefined>(fromDate);
