@@ -70,24 +70,24 @@
       { "id": "transport", "title": "Voiture", "location": "aeroport", "time": "00:30" },
       { "id": "transport", "title": "Train", "location": "aeroport", "time": "01:10" },
       { "id": "J15-1", "title": "Visite Tour Eiffel", "location": "paris", "time": "10:00" },
-      { "id": "J16-2", "title": "Musée du Louvre", "location": "paris", "time": "14:00" }    
+      { "id": "J15-2", "title": "Musée du Louvre", "location": "paris", "time": "14:00" }    
     ],
     "24-04-2025": [
       { "id": "transport", "title": "Voiture", "location": "aeroport", "time": "00:30" },
       { "id": "transport", "title": "Train", "location": "aeroport", "time": "01:10" },
-      { "id": "J15-1", "title": "Visite Tour Eiffel", "location": "paris", "time": "10:00" },
-      { "id": "J16-2", "title": "Musée du Louvre", "location": "paris", "time": "14:00" }    
+      { "id": "J16-1", "title": "Visite", "location": "paris", "time": "10:00" },
+      { "id": "J16-2", "title": "Visite", "location": "paris", "time": "14:00" }    
     ],
     "25-04-2025": [
       { "id": "transport", "title": "Voiture", "location": "aeroport", "time": "02:30" },
-      { "id": "J18-1", "title": "Verdun", "location": "verdun", "time": "10:00" }
+      { "id": "J17-1", "title": "Verdun", "location": "verdun", "time": "10:00" }
     ],
     "26-04-2025": [
       { "id": "transport", "title": "Voiture", "location": "aeroport", "time": "02:00" },
-      { "id": "J17-1", "title": "Fort-Mahon-Plage", "location": "verdun", "time": "10:00" },
-      { "id": "J17-2", "title": "Saint-Valery-sur-Somme", "location": "verdun", "time": "12:00" },
-      { "id": "J17-3", "title": "Le Crotoy", "location": "verdun", "time": "14:00" },
-      { "id": "J17-4", "title": "Mers-les-Bains", "location": "verdun", "time": "16:00" }
+      { "id": "J18-1", "title": "Fort-Mahon-Plage", "location": "verdun", "time": "10:00" },
+      { "id": "J18-2", "title": "Saint-Valery-sur-Somme", "location": "verdun", "time": "12:00" },
+      { "id": "J18-3", "title": "Le Crotoy", "location": "verdun", "time": "14:00" },
+      { "id": "J18-4", "title": "Mers-les-Bains", "location": "verdun", "time": "16:00" }
     ],
     "28-04-2025": [
       { "id": "transport", "title": "Voiture", "location": "aeroport", "time": "01:30" },
